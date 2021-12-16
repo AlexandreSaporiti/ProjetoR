@@ -4,3 +4,6 @@
 mutate()
 filter()
 #Segunda Parte projeto
+select()
+join()
+#Terceira àrte Projeto
